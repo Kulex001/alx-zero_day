@@ -1,1 +1,1 @@
-Not an empty directory
+Update empty directory
